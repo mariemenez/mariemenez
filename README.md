@@ -1,8 +1,9 @@
 # Hi there 👋
 
-I’m Marie, 27 and i live in Paris, France.
+I’m Marie, 27 and I live in Paris, France.
 
-In 2022 I decided to follow my dream and I started learning programming ! 
+I worked in communication for three years before I realised I wanted to learn programming.<br/>
+In 2022 I decided to finaly follow my dream and here I am ! 👩‍💻
 <Br/>
 <Br/>
 ### 🌱 Here are the technologies I am learning :
@@ -10,5 +11,7 @@ In 2022 I decided to follow my dream and I started learning programming !
 <Br/>
 <Br/>
 ### 🔎 Take a look at my projects !
+
+
 
 
