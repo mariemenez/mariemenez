@@ -12,6 +12,7 @@ In 2022 I decided to finally follow my dream and here I am ! 👩‍💻
 <Br/>
 ### 🔎 Take a look at my projects !
 
+<img src="https://live.staticflickr.com/65535/52614705794_54e988396f_c.jpg" width="800" height="448" alt="Capture d’écran 2023-01-08 à 13.23.34">
 
 
 
