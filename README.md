@@ -12,7 +12,7 @@ Depuis ma reconversion, j'ai appris à maîtriser plusieurs technologies et outi
 ## 🌱 Ce que j'apprends actuellement
 
 - Les rudiments de **Typescript**
-- Approfondir mes connaissances en **base de données** (SQL, NoSQL)  
+- Approfondir mes connaissances en **base de données** 
 - Explorer les **frameworks et librairies** modernes comme Next.js
 
 ## 🛠️ Technologies & Outils
