@@ -1,18 +1,29 @@
-# Hi there 👋
+# Bonjour et bienvenue sur mon GitHub ! 👋
 
-I’m Marie, 28 and I live in Paris, France.
+Je suis **Marie**, développeuse passionnée et ancienne chargée de communication. Après plusieurs années dans le domaine de la com, j'ai décidé de me reconvertir dans le développement en 2022, un choix motivé par ma curiosité pour la technologie et mon envie de créer des solutions innovantes.
 
-I worked in communication for three years before I realised I wanted to learn programming.<br/>
-In 2022 I decided to finally follow my dream and here I am ! 👩‍💻
-<Br/>
-<Br/>
-### 🌱 Here are the technologies I am learning :
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50"> <img src="https://expressjs.com/images/express-facebook-share.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" height="50">
-<Br/>
-<Br/>
-### 🔎 Take a look at my projects !
+Depuis ma reconversion, j'ai appris à maîtriser plusieurs technologies et outils que j'utilise pour créer des applications. Voici un aperçu de mon parcours et de ce que tu peux trouver ici.
 
-<img src="https://live.staticflickr.com/65535/52614705794_54e988396f_c.jpg" width="800" height="448" alt="Capture d’écran 2023-01-08 à 13.23.34">
+## 🚀 Ce que je fais
+
+- **Développement Web** : HTML, CSS, JavaScript, React, Node.js, Express, et plus encore.  
+- **Développement de projets personnels** : Je construis des applications et des projets qui allient créativité et technologie.  
+
+## 🌱 Ce que j'apprends actuellement
+
+- Les rudiments de **Typescript**
+- Approfondir mes connaissances en **base de données** (SQL, NoSQL)  
+- Explorer les **frameworks et librairies** modernes comme Next.js
+
+## 🛠️ Technologies & Outils
+
+- **Langages** : HTML, CSS, JavaScript, SQL
+- **Frameworks** : React, Node.js, Express
+- **Outils** : Git, GitHub, VS Code
+
+## 🌍 Suivez-moi
+
+Si tu veux en savoir plus sur mes projets, n'hésite pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/marie-menez-91186244/) ou sur mon [portfolio](https://marie-menez.netlify.app/).
 
 
 
