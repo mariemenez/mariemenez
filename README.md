@@ -23,7 +23,7 @@ Depuis ma reconversion, j'ai appris à maîtriser plusieurs technologies et outi
 
 ## 🌍 Suivez-moi
 
-Si tu veux en savoir plus sur mes projets, n'hésite pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/marie-menez-91186244/) ou sur mon [portfolio](https://marie-menez.netlify.app/).
+Si tu veux en savoir plus sur mes projets, n'hésite pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/marie-menez-91186244/)
 
 
 
